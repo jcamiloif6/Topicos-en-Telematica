@@ -28,5 +28,12 @@ Una vez pegando los archivos del programa en la nueva sesión de Ubuntu de WinSC
 8. screen -x <nombre>
 9. sudo python3 server.py
   
+# Resultados
+  ![Captura1Lab1](https://user-images.githubusercontent.com/46933022/183264270-c210bd13-9dba-4363-afa8-e31dbe615457.PNG)
+  ![Captura3Lab1](https://user-images.githubusercontent.com/46933022/183264291-0b9a046b-439f-44ea-9065-646e9e7d9490.PNG)
+  ![Captura4Lab1](https://user-images.githubusercontent.com/46933022/183264299-9f41b21b-40ba-4a19-af81-3c4c7a70b7f0.PNG)
+  ![Captura5Lab1](https://user-images.githubusercontent.com/46933022/183264363-2395e1e6-6838-46f1-90bb-bfc970748528.PNG)
+  ![Captura6Lab1](https://user-images.githubusercontent.com/46933022/183264321-d3f54389-500c-48c9-83ad-44c737250f2f.PNG)
+
 # Referencias
   https://www.youtube.com/watch?v=TTE-ZxN3XkA
